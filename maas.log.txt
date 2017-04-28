@@ -1,0 +1,338 @@
+Apr 28 06:33:36 joy maas.import-images: [info] Started importing boot images.
+Apr 28 06:33:36 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 06:33:37 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 06:33:37 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 06:34:06 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 06:34:09 joy maas.bootsources: [info] Updated boot sources cache.
+Apr 28 06:34:09 joy maas.bootresources: [info] Started importing of boot images from 1 source(s).
+Apr 28 06:34:09 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 06:34:10 joy maas.bootresources: [info] Importing images from source: http://images.maas.io/ephemeral-v3/daily/
+Apr 28 06:34:13 joy maas.bootresources: [info] Finished importing of boot images from 1 source(s).
+Apr 28 06:34:13 joy maas.import-images: [info] Started importing boot images.
+Apr 28 06:34:13 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 06:34:14 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 06:34:14 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 06:53:36 joy maas.import-images: [info] Started importing boot images.
+Apr 28 06:53:36 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 06:53:37 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 06:53:37 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 07:09:07 joy maas.power: [error] Pity: Power state could not be queried: 10.232.213.17: BMC error
+Apr 28 07:09:07 joy maas.power: [error] Pity: Could not query power state: 10.232.213.17: BMC error.
+Apr 28 07:13:36 joy maas.import-images: [info] Started importing boot images.
+Apr 28 07:13:36 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 07:13:37 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 07:13:37 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 07:14:07 joy maas.power: [info] Pity: Power state has changed from error to off.
+Apr 28 07:33:36 joy maas.import-images: [info] Started importing boot images.
+Apr 28 07:33:36 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 07:33:37 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 07:33:37 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 07:34:06 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 07:34:09 joy maas.bootsources: [info] Updated boot sources cache.
+Apr 28 07:34:09 joy maas.bootresources: [info] Started importing of boot images from 1 source(s).
+Apr 28 07:34:09 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 07:34:10 joy maas.bootresources: [info] Importing images from source: http://images.maas.io/ephemeral-v3/daily/
+Apr 28 07:34:13 joy maas.bootresources: [info] Finished importing of boot images from 1 source(s).
+Apr 28 07:34:13 joy maas.import-images: [info] Started importing boot images.
+Apr 28 07:34:13 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 07:34:14 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 07:34:14 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 07:35:07 joy maas.power: [error] Pity: Power state could not be queried: 10.232.213.17: BMC error
+Apr 28 07:35:07 joy maas.power: [error] Pity: Could not query power state: 10.232.213.17: BMC error.
+Apr 28 07:40:22 joy maas.power: [info] Pity: Power state has changed from error to off.
+Apr 28 07:53:36 joy maas.import-images: [info] Started importing boot images.
+Apr 28 07:53:36 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 07:53:37 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 07:53:37 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 08:13:36 joy maas.import-images: [info] Started importing boot images.
+Apr 28 08:13:36 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 08:13:37 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 08:13:37 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 08:33:37 joy maas.import-images: [info] Started importing boot images.
+Apr 28 08:33:37 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 08:33:37 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 08:33:40 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 08:34:48 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 08:35:02 joy maas.bootsources: [info] Updated boot sources cache.
+Apr 28 08:35:03 joy maas.bootresources: [info] Started importing of boot images from 1 source(s).
+Apr 28 08:35:03 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 08:35:04 joy maas.bootresources: [info] Importing images from source: http://images.maas.io/ephemeral-v3/daily/
+Apr 28 08:37:40 joy maas.bootresources: [info] Finished importing of boot images from 1 source(s).
+Apr 28 08:38:00 joy maas.import-images: [info] Started importing boot images.
+Apr 28 08:38:04 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 08:38:21 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 08:38:23 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 08:52:06 joy maas.service_monitor: [error] While monitoring service 'proxy' an error was encountered: Unable to parse the active state from systemd for service 'maas-proxy', active state reported as 'deactivating'.
+Apr 28 08:53:37 joy maas.import-images: [info] Started importing boot images.
+Apr 28 08:53:37 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 08:53:37 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 08:53:38 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 08:54:19 joy maas.rpc.cluster: [error] Lost all connections to region controllers. Stopping service(s) dhcpd.
+Apr 28 08:54:43 joy maas.service_monitor: [info] Service 'maas-dhcpd' is not off, it will be stopped.
+Apr 28 08:54:43 joy maas.service_monitor: [info] Service 'maas-dhcpd' has been stopped and is 'dead'.
+Apr 28 08:54:44 joy maas.rpc.rackcontrollers: [info] Existing rack controller 'joy' has connected to region 'joy'.
+Apr 28 08:54:47 joy maas.rpc.rackcontrollers: [info] Existing rack controller 'joy' has connected to region 'joy'.
+Apr 28 08:54:53 joy maas.dns: [error] Reloading BIND failed (is it running?): Command `rndc -c /etc/bind/maas/rndc.conf.maas reload` returned non-zero exit status 1:#012rndc: recv failed: operation canceled
+Apr 28 08:54:57 joy maas.rpc.rackcontrollers: [info] Existing rack controller 'joy' has connected to region 'joy'.
+Apr 28 08:54:57 joy maas.rpc.cluster: [error] Lost all connections to region controllers. Stopping service(s) dhcpd.
+Apr 28 08:54:57 joy maas.service_monitor: [info] Service 'maas-dhcpd' has been restarted. Its current state is 'on' and 'running'.
+Apr 28 08:54:57 joy maas.service_monitor: [info] Service 'maas-dhcpd' is not off, it will be stopped.
+Apr 28 08:54:57 joy maas.service_monitor: [info] Service 'maas-dhcpd' has been stopped and is 'dead'.
+Apr 28 08:54:57 joy maas.networks.monitor: [info] Stopped neighbour observation service for lxdbr1.
+Apr 28 08:54:57 joy maas.networks.monitor: [info] Stopped neighbour observation service for enp3s0.
+Apr 28 08:54:57 joy maas.networks.monitor: [info] Stopped neighbour observation service for lxdbr0.
+Apr 28 08:54:57 joy maas.networks.monitor: [info] Stopped mDNS resolver service.
+Apr 28 08:54:58 joy maas.dhcp.probe: [error] Unable to probe for DHCP servers: Connection was closed cleanly.
+Apr 28 08:54:59 joy maas.rpc.rackcontrollers: [info] Existing rack controller 'joy' has connected to region 'joy'.
+Apr 28 08:55:13 joy maas.networks.monitor: [info] Networks monitoring service: Process ID 26166 assumed responsibility.
+Apr 28 08:55:13 joy maas.service_monitor_service: [error] Can't update service statuses, no RPC connection to region.
+Apr 28 08:55:37 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 08:55:39 joy maas.service_monitor: [info] Service 'maas-dhcpd' is not on, it will be started.
+Apr 28 08:55:39 joy maas.service_monitor: [info] Service 'maas-dhcpd' has been started and is 'running'.
+Apr 28 08:55:40 joy maas.refresh: [info] Refreshing rack controller hardware information.
+Apr 28 08:55:42 joy maas.bootsources: [info] Updated boot sources cache.
+Apr 28 08:55:42 joy maas.bootresources: [info] Started importing of boot images from 1 source(s).
+Apr 28 08:55:42 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 08:55:42 joy maas.service_monitor: [info] Service 'ntp' has been restarted. Its current state is 'on' and 'running'.
+Apr 28 08:55:43 joy maas.rpc.rackcontrollers: [info] Existing rack controller 'joy' has connected to region 'joy'.
+Apr 28 08:55:44 joy maas.rpc.rackcontrollers: [info] Existing rack controller 'joy' has connected to region 'joy'.
+Apr 28 08:55:44 joy maas.bootresources: [info] Importing images from source: http://images.maas.io/ephemeral-v3/daily/
+Apr 28 08:56:36 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 08:57:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 08:57:42 joy maas.bootresources: [info] Finished importing of boot images from 1 source(s).
+Apr 28 08:57:48 joy maas.import-images: [info] Started importing boot images.
+Apr 28 08:57:48 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 08:58:00 joy maas.import-images: [info] Downloading boot resources from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 08:58:36 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 08:59:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 08:59:44 joy maas.import-images: [info] Writing boot image metadata and iSCSI targets.
+Apr 28 08:59:44 joy maas.import-images: [info] Linking boot images snapshot /var/lib/maas/boot-resources/snapshot-20170428-125800
+Apr 28 08:59:44 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 08:59:45 joy maas.import-images: [info] Cleaning up old snapshots and cache.
+Apr 28 08:59:45 joy maas.import-images: [info] Finished importing boot images.
+Apr 28 09:00:03 joy maas.api: [info] Request from user ip to acquire a machine with constraints <QueryDict: {'mem': ['3584'], 'name': ['Happy.maas'], 'agent_name': ['0c8fea17-693f-44d8-8ab6-64595adb527d']}>
+Apr 28 09:00:03 joy maas.node: [info] Happy: Status transition from READY to ALLOCATED
+Apr 28 09:00:03 joy maas.node: [info] Happy: allocated to user ip
+Apr 28 09:00:07 joy maas.interface: [info] Allocated automatic IP address 10.232.213.11 for eth4 (physical) on Happy.
+Apr 28 09:00:07 joy maas.node: [info] Happy: Status transition from ALLOCATED to DEPLOYING
+Apr 28 09:00:09 joy maas.power: [info] Changing power state (on) of node: Happy (cc4fpr)
+Apr 28 09:00:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 09:01:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 09:02:12 joy maas.interface: [info] enp3s0 (physical) on joy: New MAC, IP binding observed: 34:a8:4e:b6:50:74, 10.232.213.11
+Apr 28 09:02:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 09:03:30 joy maas.power: [info] Changed power state (on) of node: Happy (cc4fpr)
+Apr 28 09:03:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 09:03:53 joy maas.node: [info] Happy: Status transition from DEPLOYING to FAILED_DEPLOYMENT
+Apr 28 09:03:53 joy maas.node: [error] Happy: Marking node failed: Installation failed (refer to the installation log for more information).
+Apr 28 09:03:58 joy maas.node: [info] Happy: Releasing node
+Apr 28 09:03:58 joy maas.node: [info] Happy: Status transition from FAILED_DEPLOYMENT to RELEASING
+Apr 28 09:03:58 joy maas.power: [info] Changing power state (off) of node: Happy (cc4fpr)
+Apr 28 09:04:13 joy maas.node: [info] Happy: Status transition from RELEASING to READY
+Apr 28 09:04:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 09:05:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 09:06:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 09:07:19 joy maas.power: [info] Changed power state (off) of node: Happy (cc4fpr)
+Apr 28 09:07:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 09:08:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 09:09:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 09:10:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 09:11:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 09:12:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 09:13:35 joy maas.service_monitor: [warn] Service 'ntp' is on but not in the expected state of 'running', its current state is 'exited'.
+Apr 28 09:17:06 joy maas.networks.monitor: [info] Networks monitoring service: Process ID 1307 assumed responsibility.
+Apr 28 09:17:08 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:17:10 joy maas.service_monitor: [info] Service 'ntp' has been restarted. Its current state is 'on' and 'running'.
+Apr 28 09:17:11 joy maas.import-images: [info] Started importing boot images.
+Apr 28 09:17:11 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 09:17:11 joy maas.refresh: [info] Refreshing rack controller hardware information.
+Apr 28 09:17:11 joy maas.import-images: [info] Downloading boot resources from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 09:17:12 joy maas.rpc.rackcontrollers: [info] Existing rack controller 'joy' has connected to region 'joy'.
+Apr 28 09:17:13 joy maas.service_monitor: [info] Service 'maas-dhcpd' has been restarted. Its current state is 'on' and 'running'.
+Apr 28 09:17:14 joy maas.bootsources: [info] Updated boot sources cache.
+Apr 28 09:17:14 joy maas.bootresources: [info] Started importing of boot images from 1 source(s).
+Apr 28 09:17:14 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:17:15 joy maas.bootresources: [info] Importing images from source: http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:17:18 joy maas.import-images: [info] Writing boot image metadata and iSCSI targets.
+Apr 28 09:17:19 joy maas.bootresources: [info] Finished importing of boot images from 1 source(s).
+Apr 28 09:17:19 joy maas.import-images: [info] Linking boot images snapshot /var/lib/maas/boot-resources/snapshot-20170428-131711
+Apr 28 09:17:19 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 09:17:19 joy maas.import-images: [info] Cleaning up old snapshots and cache.
+Apr 28 09:17:19 joy maas.import-images: [info] Finished importing boot images.
+Apr 28 09:17:36 joy maas.refresh: [info] Refreshing rack controller hardware information.
+Apr 28 09:26:07 joy maas.service_monitor: [error] While monitoring service 'proxy' an error was encountered: Unable to parse the active state from systemd for service 'maas-proxy', active state reported as 'deactivating'.
+Apr 28 09:26:40 joy maas.networks.monitor: [info] Stopped neighbour observation service for lxdbr0.
+Apr 28 09:26:40 joy maas.networks.monitor: [info] Stopped neighbour observation service for enp3s0.
+Apr 28 09:26:40 joy maas.networks.monitor: [info] Stopped neighbour observation service for lxdbr1.
+Apr 28 09:26:40 joy maas.networks.monitor: [info] Stopped mDNS resolver service.
+Apr 28 09:26:40 joy maas.rpc.cluster: [error] Lost all connections to region controllers. Stopping service(s) dhcpd.
+Apr 28 09:26:43 joy maas.networks.monitor: [info] Networks monitoring service: Process ID 4672 assumed responsibility.
+Apr 28 09:26:43 joy maas.service_monitor: [info] Service 'maas-dhcpd' is not off, it will be stopped.
+Apr 28 09:26:43 joy maas.service_monitor: [info] Service 'maas-dhcpd' has been stopped and is 'dead'.
+Apr 28 09:26:43 joy maas.rpc.rackcontrollers: [info] Existing rack controller 'joy' has connected to region 'joy'.
+Apr 28 09:26:49 joy maas.service_monitor: [info] Service 'maas-dhcpd' has been restarted. Its current state is 'on' and 'running'.
+Apr 28 09:26:53 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:26:57 joy maas.service_monitor: [info] Service 'ntp' has been restarted. Its current state is 'on' and 'running'.
+Apr 28 09:27:04 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:27:06 joy maas.refresh: [info] Refreshing rack controller hardware information.
+Apr 28 09:27:08 joy maas.rpc.rackcontrollers: [info] Existing rack controller 'joy' has connected to region 'joy'.
+Apr 28 09:27:08 joy maas.service_monitor: [info] Service 'ntp' has been restarted. Its current state is 'on' and 'running'.
+Apr 28 09:27:09 joy maas.bootsources: [info] Updated boot sources cache.
+Apr 28 09:27:09 joy maas.bootresources: [info] Started importing of boot images from 1 source(s).
+Apr 28 09:27:09 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:27:09 joy maas.rpc.rackcontrollers: [info] Existing rack controller 'joy' has connected to region 'joy'.
+Apr 28 09:27:10 joy maas.rpc.rackcontrollers: [info] Existing rack controller 'joy' has connected to region 'joy'.
+Apr 28 09:27:10 joy maas.bootresources: [info] Importing images from source: http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:27:14 joy maas.refresh: [info] Refreshing rack controller hardware information.
+Apr 28 09:27:14 joy maas.bootresources: [info] Finished importing of boot images from 1 source(s).
+Apr 28 09:27:14 joy maas.import-images: [info] Started importing boot images.
+Apr 28 09:27:14 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 09:27:15 joy maas.import-images: [info] Downloading boot resources from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 09:27:25 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 09:27:25 joy maas.import-images: [warn] Unable to import boot images; cleaning up failed snapshot and cache.
+Apr 28 09:30:58 joy maas.api: [info] Request from user ip to acquire a machine with constraints <QueryDict: {'mem': ['3584'], 'name': ['Happy.maas'], 'agent_name': ['3c43c145-2d69-4bf6-84fb-0488c83c7838']}>
+Apr 28 09:30:59 joy maas.node: [info] Happy: Status transition from READY to ALLOCATED
+Apr 28 09:30:59 joy maas.node: [info] Happy: allocated to user ip
+Apr 28 09:31:01 joy maas.interface: [info] Allocated automatic IP address 10.232.213.76 for eth4 (physical) on Happy.
+Apr 28 09:31:01 joy maas.node: [info] Happy: Status transition from ALLOCATED to DEPLOYING
+Apr 28 09:31:02 joy maas.power: [info] Changing power state (on) of node: Happy (cc4fpr)
+Apr 28 09:33:02 joy maas.interface: [info] enp3s0 (physical) on joy: New MAC, IP binding observed: 34:a8:4e:b6:50:74, 10.232.213.76
+Apr 28 09:34:23 joy maas.power: [info] Changed power state (on) of node: Happy (cc4fpr)
+Apr 28 09:34:28 joy maas.node: [info] Happy: Status transition from DEPLOYING to FAILED_DEPLOYMENT
+Apr 28 09:34:28 joy maas.node: [error] Happy: Marking node failed: Installation failed (refer to the installation log for more information).
+Apr 28 09:34:41 joy maas.node: [info] Happy: Releasing node
+Apr 28 09:34:41 joy maas.node: [info] Happy: Status transition from FAILED_DEPLOYMENT to RELEASING
+Apr 28 09:34:41 joy maas.node: [info] Happy: Releasing node
+Apr 28 09:34:41 joy maas.node: [info] Happy: Status transition from FAILED_DEPLOYMENT to RELEASING
+Apr 28 09:34:42 joy maas.node: [info] Happy: Releasing node
+Apr 28 09:34:42 joy maas.node: [info] Happy: Status transition from FAILED_DEPLOYMENT to RELEASING
+Apr 28 09:34:43 joy maas.node: [info] Happy: Releasing node
+Apr 28 09:34:43 joy maas.node: [info] Happy: Status transition from FAILED_DEPLOYMENT to RELEASING
+Apr 28 09:34:44 joy maas.node: [info] Happy: Releasing node
+Apr 28 09:34:44 joy maas.node: [info] Happy: Status transition from FAILED_DEPLOYMENT to RELEASING
+Apr 28 09:34:44 joy maas.node: [info] Happy: Releasing node
+Apr 28 09:34:44 joy maas.node: [info] Happy: Status transition from FAILED_DEPLOYMENT to RELEASING
+Apr 28 09:34:46 joy maas.node: [info] Happy: Releasing node
+Apr 28 09:34:46 joy maas.node: [info] Happy: Status transition from FAILED_DEPLOYMENT to RELEASING
+Apr 28 09:34:46 joy maas.power: [info] Changing power state (off) of node: Happy (cc4fpr)
+Apr 28 09:38:07 joy maas.node: [info] Happy: Status transition from RELEASING to READY
+Apr 28 09:38:07 joy maas.power: [info] Changed power state (off) of node: Happy (cc4fpr)
+Apr 28 09:46:43 joy maas.import-images: [info] Started importing boot images.
+Apr 28 09:46:43 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 09:46:44 joy maas.import-images: [info] Downloading boot resources from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 09:47:08 joy maas.import-images: [info] Writing boot image metadata and iSCSI targets.
+Apr 28 09:47:09 joy maas.import-images: [info] Linking boot images snapshot /var/lib/maas/boot-resources/snapshot-20170428-134644
+Apr 28 09:47:09 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 09:47:09 joy maas.import-images: [info] Cleaning up old snapshots and cache.
+Apr 28 09:47:09 joy maas.import-images: [info] Finished importing boot images.
+Apr 28 09:54:38 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:54:41 joy maas.bootsources: [info] Updated boot sources cache.
+Apr 28 09:54:41 joy maas.bootresources: [info] Started importing of boot images from 1 source(s).
+Apr 28 09:54:41 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:54:42 joy maas.bootresources: [info] Importing images from source: http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:55:05 joy maas.bootresources: [warn] Importing of boot images from 1 source(s) was cancelled.
+Apr 28 09:55:05 joy maas.import-images: [info] Started importing boot images.
+Apr 28 09:55:05 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 09:55:05 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:55:06 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 09:55:06 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 09:55:08 joy maas.bootsources: [info] Updated boot sources cache.
+Apr 28 09:55:08 joy maas.bootresources: [info] Started importing of boot images from 1 source(s).
+Apr 28 09:55:08 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:55:10 joy maas.bootresources: [info] Importing images from source: http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:59:32 joy maas.bootresources: [warn] Importing of boot images from 1 source(s) was cancelled.
+Apr 28 09:59:32 joy maas.import-images: [info] Started importing boot images.
+Apr 28 09:59:32 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 09:59:33 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:59:34 joy maas.import-images: [info] Downloading boot resources from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 09:59:46 joy maas.bootsources: [info] Updated boot sources cache.
+Apr 28 09:59:46 joy maas.bootresources: [info] Started importing of boot images from 1 source(s).
+Apr 28 09:59:46 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:59:47 joy maas.bootresources: [info] Importing images from source: http://images.maas.io/ephemeral-v3/daily/
+Apr 28 09:59:54 joy maas.bootresources: [info] Finished importing of boot images from 1 source(s).
+Apr 28 10:00:31 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 10:00:32 joy maas.import-images: [warn] Unable to import boot images; cleaning up failed snapshot and cache.
+Apr 28 10:03:57 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 10:03:59 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 10:04:01 joy maas.bootsources: [info] Updated boot sources cache.
+Apr 28 10:04:03 joy maas.bootsources: [info] Updated boot sources cache.
+Apr 28 10:09:37 joy maas.api: [info] Request from user ip to acquire a machine with constraints <QueryDict: {'mem': ['3584'], 'agent_name': ['f51e16d0-452a-4aca-8f8f-ba6c6b305acd'], 'name': ['Frenzy.maas']}>
+Apr 28 10:09:38 joy maas.node: [info] Frenzy: Status transition from READY to ALLOCATED
+Apr 28 10:09:38 joy maas.node: [info] Frenzy: allocated to user ip
+Apr 28 10:09:40 joy maas.interface: [info] Allocated automatic IP address 10.232.213.77 for eth0 (physical) on Frenzy.
+Apr 28 10:09:40 joy maas.node: [info] Frenzy: Status transition from ALLOCATED to DEPLOYING
+Apr 28 10:09:41 joy maas.power: [info] Changing power state (on) of node: Frenzy (cd3rmw)
+Apr 28 10:11:25 joy maas.node: [info] Love: Status transition from READY to ALLOCATED
+Apr 28 10:11:26 joy maas.node: [info] Love: allocated to user ip
+Apr 28 10:11:26 joy maas.node: [info] Love: Status transition from ALLOCATED to DEPLOYING
+Apr 28 10:11:26 joy maas.power: [info] Changing power state (on) of node: Love (cqhqgt)
+Apr 28 10:11:47 joy maas.drivers.power.ipmi: [warn] Failed to change the boot order to PXE 10.232.213.13: ipmi_cmd_get_system_boot_options_boot_flags: session timeout
+Apr 28 10:12:58 joy maas.interface: [info] enp3s0 (physical) on joy: New MAC, IP binding observed: a4:ba:db:4e:be:33, 10.232.213.77
+Apr 28 10:13:02 joy maas.power: [info] Changed power state (on) of node: Frenzy (cd3rmw)
+Apr 28 10:15:05 joy maas.node: [info] Frenzy: Status transition from DEPLOYING to FAILED_DEPLOYMENT
+Apr 28 10:15:05 joy maas.node: [error] Frenzy: Marking node failed: Installation failed (refer to the installation log for more information).
+Apr 28 10:15:07 joy maas.node: [info] Frenzy: Releasing node
+Apr 28 10:15:07 joy maas.node: [info] Frenzy: Status transition from FAILED_DEPLOYMENT to RELEASING
+Apr 28 10:15:07 joy maas.node: [info] Frenzy: Releasing node
+Apr 28 10:15:07 joy maas.node: [info] Frenzy: Status transition from FAILED_DEPLOYMENT to RELEASING
+Apr 28 10:15:07 joy maas.power: [info] Changing power state (off) of node: Frenzy (cd3rmw)
+Apr 28 10:15:07 joy maas.power: [info] Changed power state (on) of node: Love (cqhqgt)
+Apr 28 10:15:43 joy maas.node: [info] Frenzy: Status transition from RELEASING to READY
+Apr 28 10:15:45 joy maas.node: [info] Love: Status transition from DEPLOYING to FAILED_DEPLOYMENT
+Apr 28 10:15:45 joy maas.node: [error] Love: Marking node failed: Installation failed (refer to the installation log for more information).
+Apr 28 10:16:43 joy maas.import-images: [info] Started importing boot images.
+Apr 28 10:16:43 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 10:16:44 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 10:16:45 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 10:18:28 joy maas.power: [info] Changed power state (off) of node: Frenzy (cd3rmw)
+Apr 28 10:21:34 joy maas.node: [info] Love: Releasing node
+Apr 28 10:21:34 joy maas.node: [info] Love: Status transition from FAILED_DEPLOYMENT to RELEASING
+Apr 28 10:21:34 joy maas.power: [info] Changing power state (off) of node: Love (cqhqgt)
+Apr 28 10:21:55 joy maas.drivers.power.ipmi: [warn] Failed to change the boot order to PXE 10.232.213.13: ipmi_cmd_get_system_boot_options_boot_flags: session timeout
+Apr 28 10:25:22 joy maas.node: [info] Love: Status transition from RELEASING to READY
+Apr 28 10:25:22 joy maas.power: [info] Changed power state (off) of node: Love (cqhqgt)
+Apr 28 10:27:03 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 10:27:06 joy maas.bootsources: [info] Updated boot sources cache.
+Apr 28 10:27:06 joy maas.bootresources: [info] Started importing of boot images from 1 source(s).
+Apr 28 10:27:06 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 10:27:07 joy maas.bootresources: [info] Importing images from source: http://images.maas.io/ephemeral-v3/daily/
+Apr 28 10:27:10 joy maas.bootresources: [info] Finished importing of boot images from 1 source(s).
+Apr 28 10:27:10 joy maas.import-images: [info] Started importing boot images.
+Apr 28 10:27:10 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 10:27:11 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 10:27:11 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 10:46:43 joy maas.import-images: [info] Started importing boot images.
+Apr 28 10:46:43 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 10:46:43 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 10:46:44 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 11:06:43 joy maas.import-images: [info] Started importing boot images.
+Apr 28 11:06:43 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 11:06:44 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 11:06:44 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 11:26:43 joy maas.import-images: [info] Started importing boot images.
+Apr 28 11:26:43 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 11:26:44 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 11:26:45 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 11:27:03 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 11:27:06 joy maas.bootsources: [info] Updated boot sources cache.
+Apr 28 11:27:06 joy maas.bootresources: [info] Started importing of boot images from 1 source(s).
+Apr 28 11:27:06 joy maas.import-images: [info] Downloading image descriptions from http://images.maas.io/ephemeral-v3/daily/
+Apr 28 11:27:07 joy maas.bootresources: [info] Importing images from source: http://images.maas.io/ephemeral-v3/daily/
+Apr 28 11:27:10 joy maas.bootresources: [info] Finished importing of boot images from 1 source(s).
+Apr 28 11:27:10 joy maas.import-images: [info] Started importing boot images.
+Apr 28 11:27:10 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 11:27:10 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 11:27:11 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+Apr 28 11:37:59 joy maas.node: [info] Frenzy: Status transition from READY to ALLOCATED
+Apr 28 11:37:59 joy maas.node: [info] Frenzy: allocated to user ip
+Apr 28 11:37:59 joy maas.interface: [info] Allocated automatic IP address 10.232.213.78 for eth0 (physical) on Frenzy.
+Apr 28 11:37:59 joy maas.node: [info] Frenzy: Status transition from ALLOCATED to DEPLOYING
+Apr 28 11:37:59 joy maas.power: [info] Changing power state (on) of node: Frenzy (cd3rmw)
+Apr 28 11:41:15 joy maas.interface: [info] enp3s0 (physical) on joy: New MAC, IP binding observed: a4:ba:db:4e:be:33, 10.232.213.78
+Apr 28 11:41:20 joy maas.power: [info] Changed power state (on) of node: Frenzy (cd3rmw)
+Apr 28 11:43:17 joy maas.node: [info] Frenzy: Status transition from DEPLOYING to FAILED_DEPLOYMENT
+Apr 28 11:43:17 joy maas.node: [error] Frenzy: Marking node failed: Installation failed (refer to the installation log for more information).
+Apr 28 11:46:43 joy maas.import-images: [info] Started importing boot images.
+Apr 28 11:46:43 joy maas.import-images: [info] Downloading image descriptions from http://localhost:5240/MAAS/images-stream/streams/v1/index.json
+Apr 28 11:46:44 joy maas.import-images: [info] Updating boot image iSCSI targets.
+Apr 28 11:46:44 joy maas.import-images: [info] Finished importing boot images, the region does not have any new images.
+]0;
